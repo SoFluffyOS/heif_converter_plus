@@ -3,7 +3,7 @@
 # Run `pod lib lint heif_converter.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'heif_converter'
+  s.name             = 'heif_converter_plus'
   s.version          = '1.0.0'
   s.summary          = 'Flutter plugin to convert HEIC/HEIF file to PNG/JPEG image.'
   s.description      = <<-DESC
