@@ -1,5 +1,7 @@
 # HEIF Converter
 
+#### Original package: [heif_converter](https://pub.dev/packages/heif_converter)
+
 Flutter plugin to convert HEIC/HEIF file to PNG/JPEG image.
 
 ## Installation
